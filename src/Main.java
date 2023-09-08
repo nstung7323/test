@@ -4,4 +4,6 @@ public class Main {
         System.out.println("Commit A");
         System.out.println("Commit B");
     }
+
+    public void thisB() {};
 }
